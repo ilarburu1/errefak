@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-10-07 15:27:40 #1 store] 
+Database 'C:\Users\larbu\git\SI-Bets\src\main\resources\bets.temp' is opened by 23012@LAPTOP-6EQJO4RK
+
+[2023-10-07 15:27:40 #2 type] 
+Type domain.Event is not enhanced.
+
+[2023-10-07 15:27:40 #3 type] 
+Type domain.Question is not enhanced.
+
+[2023-10-07 15:27:40 #4 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-10-07 15:27:40 #5 type] 
+Type domain.Apustua is not enhanced.
+
+[2023-10-07 15:27:40 #6 type] 
+Type domain.User is not enhanced.
+
+[2023-10-07 15:27:40 #7 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-10-07 15:27:40 #8 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-10-07 15:27:40 #9 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-10-07 15:27:40 #10 type] 
+Type domain.Admin is not enhanced.
+
+[2023-10-07 15:27:40 #11 type] 
+Type domain.Editorea is not enhanced.
+
